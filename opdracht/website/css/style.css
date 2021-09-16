@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: Red;
 }
 
 div h1{
@@ -21,13 +21,12 @@ div h1{
 }
 
 #poster1{
-    background-color: black;
+    background-color: white;
 }
 
 #poster2{
-    background-color: black;
+    background-color: white;
 }
 
 #poster3{
-    background-color: black;
-}
+    background-color: white
